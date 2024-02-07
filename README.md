@@ -2,5 +2,5 @@
 Code snippet for scheduling content using a central spreadsheet
 
 ## Environments
-- Preview: https://main--aem-content-scheduling--kronnox.hlx.page/
-- Live: https://main--aem-content-scheduling--kronnox.hlx.live/
+- Preview: https://main--aem-scheduled-content--kronnox.hlx.page/
+- Live: https://main--aem-scheduled-content--kronnox.hlx.live/
